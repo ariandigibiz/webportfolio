@@ -1,0 +1,131 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+#navy {
+	background-color: #85A389;
+	font-family: 'Martel Sans', sans-serifs
+}
+
+#navy a {
+	color: white;
+	font-family: 'Martel Sans', sans-serifs
+}
+
+
+div #arianne {
+	font-size: 25px;
+	letter-spacing: 2px;
+}
+
+
+div #intro1, #intro2, #intro3 {
+	color: #85A389;
+}
+
+div #intro2 {
+	font-size: 20px;
+	font-family: 'Lekton', sans-serif;
+	letter-spacing: 2px;
+}
+
+div #intro3 {
+	letter-spacing: 2px;
+}
+
+div #intro1 {
+	line-height: 28px;
+	font-size: 35px;
+}
+
+div #landing {
+	background-color: #F2E3DB;
+}
+
+#workbtn {
+	font-size: 15px;
+	border-radius: 25px;
+	border: 1px solid;
+	border-color: green;
+	background-color: #FF8551;
+	color: white;
+	font-weight: bold;
+}
+
+#tools div > h3, #tools h1, #myproj {
+	color: green;
+	font-family: 'Martel Sans', sans-serifs
+}
+
+#front, #other, #pmtools {
+	border: 1px solid;
+	border-image-outset: 2px;
+	border-radius: 25px;
+	border-color: green;
+}
+
+#footer {
+	background-color: #85A389;
+	color: white;
+	font-family: 'Martel Sans', sans-serifs
+	font-size: 20px;
+}
+
+#sendbtn {
+	font-size: 15px;
+	border-radius: 25px;
+	border: 2px solid;
+	border-color: green;
+	background-color: #FF8551;
+	color: white;
+	font-weight: bold;
+}
+
+div > label {
+	font-family: 'Martel Sans', sans-serifs
+	font-size: 20px;
+	font-weight: bold;
+	color: green;
+}
+
+div #social1, #social2, #social3 {
+	font-size: 20px;
+	border-radius: 10px;
+	border: 1px solid;
+	border-color: green;
+	background-color: white;
+	color: green;
+	font-weight: thin;
+	font-family: 'Lekton', sans-serif;
+}
+
+#contact, #msg {
+	font-family: 'Lekton', sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	color: #E86A33;
+	letter-spacing: 3px;
+}
+
+#contactdiv {
+	background-color: #F2E3DB;
+	font-family: 'Martel Sans', sans-serifs
+}
+
+.card-text {
+	font-family: 'Martel Sans', sans-serifs
+}
+
+.card-title {
+	font-family: 'Lekton', sans-serif;
+	letter-spacing: 2px;
+	font-weight: bold;
+	color: #E86A33;
+}
+
+.card {
+	border-color: #E86A33;
+}
